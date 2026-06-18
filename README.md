@@ -24,10 +24,13 @@
 </p>
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zairacastedo-valdez&label=Visualizações&color=0e75b6&style=flat" alt="views" />
-</p>
+<h1 align="center">Olá, eu sou Zaira Valdez 👋</h1>
 
+<h3 align="center">
+🎓 Estudante da Escola Senai - ROBERTO SIMONSEN<br>
+💻 Futuro Técnico em Desenvolvimento de Sistemas pelo SENAI<br>
+🚀 Apaixonado por tecnologia, programação e inovação
+</h3>
 
 ## 🚀 Tecnologias e Ferramentas
 
