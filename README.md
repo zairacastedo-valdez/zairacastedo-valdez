@@ -51,7 +51,7 @@
 
 ## 🌐 Conecte-se comigo
 <p> 
-  <a href="mailto:sauelfernandoa981725760@gmail.com" target="_blank">
+  <a href="mailto:zairav400@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
