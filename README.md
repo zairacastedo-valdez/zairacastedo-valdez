@@ -4,7 +4,7 @@
 
 🚀 Transformanda ideias em projetos e desafios em oportunidades de crescimento.
 
-🎓 Estudante da Escola Senai - ROBERTO SIMONSEM e futura técnica em Desenvolvimento de Sistemas pelo.
+🎓 Estudante da Escola Senai - ROBERTO SIMONSEN e futura técnica em Desenvolvimento de Sistemas pelo.
 
 🌱 Atualmente aprimorando meus conhecimentos em desenvolvimento web, programação e banco de dados.
 
@@ -19,11 +19,22 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SPACEzinxl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SPACEzinxl&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zairacastedo-valdez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zairacastedo-valdez&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zairacastedo-valdez&label=Visualizações&color=0e75b6&style=flat" alt="views" />
 </p>
 
----
+<h1 align="center">Olá, eu sou Samuel Fernando 👋</h1>
+
+<h3 align="center">
+🎓 Estudante da Escola Senai - ROBERTO SIMONSEN<br>
+💻 Futuro Técnico em Desenvolvimento de Sistemas pelo SENAI<br>
+🚀 Apaixonado por tecnologia, programação e inovação
+</h3>
 
 ## 🚀 Tecnologias e Ferramentas
 
