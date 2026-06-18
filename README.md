@@ -24,14 +24,6 @@
 </p>
 ---
 
-<h1 align="center">Olá, eu sou Zaira Valdez 👋</h1>
-
-<h3 align="center">
-🎓 Estudante da Escola Senai - ROBERTO SIMONSEN<br>
-💻 Futuro Técnico em Desenvolvimento de Sistemas pelo SENAI<br>
-🚀 Apaixonado por tecnologia, programação e inovação
-</h3>
-
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
