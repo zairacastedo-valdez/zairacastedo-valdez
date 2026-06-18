@@ -28,7 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=zairacastedo-valdez&label=Visualizações&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<h1 align="center">Olá, eu sou Samuel Fernando 👋</h1>
+<h1 align="center">Olá, eu sou ZAIRA VALDEZ👋</h1>
 
 <h3 align="center">
 🎓 Estudante da Escola Senai - ROBERTO SIMONSEN<br>
